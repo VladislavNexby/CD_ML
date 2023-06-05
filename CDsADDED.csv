@@ -1,0 +1,47 @@
+﻿DOI,type_of_synthesis,precursor_1,precursor_2,precursor_3,reagent,precursor_1_g,precursor_2_g,precursor_3_g,reagent_mL,power_W,temperature_°C,time_h,Abs_red_max_nm,Exc_red_max_nm,FL_red_max_nm,QY_red_%
+10.1002/smll.201905050,ST,CA,urea,,DMF,2,4,,20,,160,6,720,732,770,11
+10.1038/s41377-018-0090-1,ST,CA,urea,,DMSO,2,6,,30,,160,4,650,655,720,0.2
+10.1002/adma.201603443,HT,Dopamine,o-phenylenediamine,,water,0.184,0.108,,10,,200,8,631,540,710,26.28
+10.1021/acsabm.1c00121,HT,o-phenylenediamine,urea,,H2SO4/H20,0.2,0.13,,30,,210,8,570,580,650,20
+10.1007/s12274-017-1528-0,HT,Polythiophene,diphenyl diselenide,,NAOH/H20,0.01,0.01,,15,,180,24,526,680,820,0.2
+10.1021/acsami.6b07453,ST,PEG800,CyOH,,ethanol,0.5,0.03,,15,,160,2,783,720,820,6
+10.1002/asia.201900416,MW,Pheophytin,,,DMF,0.02,,,30,500,150,0.5,664,671,680,
+10.1021/acsnano.7b06399,ST,CA,urea,,formamide,1,1,,15,,180,12,530,550,630,4
+10.1021/acs.chemmater.6b03695,MW,CA,,,formamide,2.8,,,50,400,140,2,550,540,640,16.2
+10.1016/j.ceramint.2019.05.299,HT,CA,urea,,DMF,1,0.5,,10,,180,10,550,460,654,
+10.1021/acs.langmuir.7b02385,ST,CA,ethylenediamine,,formamide,1.2,1.89,,80,,180,4,564,561,627,53.1
+10.1021/acs.langmuir.7b02385,ST,CA,ethylenediamine,,formamide,1.6,1.89,,80,,180,4,564,561,624,51.6
+10.1021/acs.langmuir.7b02385,ST,CA,ethylenediamine,,formamide,0.8,1.89,,80,,180,4,564,561,630,37.4
+10.1021/acs.langmuir.7b02385,ST,CA,ethylenediamine,,formamide,0.4,1.89,,80,,180,4,564,561,624,18.3
+10.1039/D1NA00286D,ST,CA,urea,,DMF,1,2,,10,,160,6,600,680,691,
+10.1515/nanoph-2020-0233,ST,CA,urea,,DMF,1,2,,10,,160,4,580,594,654,22
+10.1002/advs.201903525,ST,CA,urea,,DEF,1,2,,10,,160,8,540,580,642,
+10.1002/adom.201700416,ST,CA,urea,,DMF,1,2,,10,,160,4,545,375,638,
+10.1002/smll.202000680,ST,CA,urea,NH4F,DMF,2,4,0.195,20,,180,4,715,710,777,9.8
+10.1021/acsami.8b19042,ST,CA,PEI,,formamide,10,6.3,,200,,160,4,540,550,640,
+10.1016/j.jcis.2018.05.101,ST,CA,urea,,DMF,3,6,,30,,160,6,620,532,648,25
+10.1039/c7nr05363k,ST,ammonium citrate,,,DMF,0.3,,,10,,160,6,341,460,658,30.4
+10.1021/acsnano.5b05406,ST,p-phenylenediamine,urea,,water,0.2,0.2,,50,,160,10,528,521,625,23.81
+10.1007/s12274-019-2293-z,ST,L-cystine,o-phenylenediamine,,ethanol,0.125,0.5,,20,,220,12,571,540,648,35.7
+10.1039/C8NJ04906H,ST,DTT,o-phenylenediamine,,CHCl3,0.05,0.4,,20,,160,12,560,570,648,23.26
+10.1002/adma.201702910,ST,1_3-Dihydroxynaphthalene,KIO4,,ethanol,0.01,0.04,,10,,180,1,530,540,628,53
+10.1038/ncomms5596,HT,Polythiophene,,,NAOH/H20,0.03,,,40,,170,24,490,500,680,5.4
+10.1002/adma.201705913,ST,CA,urea,,DMF,2,4,,20,,160,6,715,732,760,10
+10.1002/adma.201705913,ST,CA,urea,,DMF,2,4,,20,,160,6,619,561,640,26
+10.1021/acsami.7b16991,HT,CA,neutral red,,water,1.5,0.0021,,5,,180,4,530,610,632,12.1
+10.1021/acsami.8b03529,HT,CA,5-amino-1_10- phenanthroline,,water,1.35,0.15,,15,,200,7,450,560,630,67
+10.1038/s41551-020-0540-y,HT,CA,1_4_5_8-tetraminoanthraquinone,,water,0.04,0.03,,10,,180,2,650,600,700,6.8
+10.1002/smll.201800612,ST,l-glutamic acid,o-phenylenediamine,,H2SO4/H20,0.11,0.16,,25,,210,10,634,600,715,43
+10.1002/smll.201901673,HT,p-phenylenediamine,o-phenylenediamine,dopamine,HCI/H20,0.2,1,2,50,,200,16,560,573,640,25
+10.1039/d0tc02597f,ST,CA,urea,,DMF,3,6,,30,,160,6,550,580,629,10.6
+10.1021/acs.jpclett.9b01848,ST,CA,urea,,DMF,2,4,,20,,160,4,525,550,630,
+10.1002/anie.202007786,ST,CA,PEI,,formamide,7.5,4.7,,150,,160,4,540,550,635,
+10.1021/acsabm.8b00029,HT,CA,Tetraamino porphyrin,,water,1,0.1,,20,,200,3,670,440,750,8.54
+10.1016/j.saa.2020.118230,ST,CA,acrylamide,,formamide,1,2,,10,,200,4,550,560,644,
+10.1126/sciadv.abb6772,ST,terephthalic acid,o-phenylenediamine,,ethanol,0.1,0.1,,10,,180,12,628,600,665,47
+10.1126/sciadv.abb6773,ST,terephthalic acid,o-phenylenediamine,,ethanol,0.2,0.1,,10,,180,12,650,640,700,52
+10.1021/acsami.0c00283,HT,Alizarin carmine,,,water,0.01,,,10,,200,3,552,600,642,6
+10.1016/j.jallcom.2017.01.124,ST,CA,urea,,DMF,1,2,,10,,200,6,600,550,650,39
+10.1002/adhm.201601419,ST,Polythiophene,,,NAOH,0.03,,,40,,170,24,500,520,670,
+10.1088/1361-6528/aaa321,ST,CA,urea,,DMF,1,2,,10,,180,8,550,540,620,47
+10.1021/acs.jpclett.9b03891,ST,4-Aminophenol,KIO4,,ethanol,0.02,0.06,,10,,195,1,537,540,620,20.1
